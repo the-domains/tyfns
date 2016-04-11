@@ -1,0 +1,28 @@
+name: TYFNS
+favicon: null
+layout_spectrum: 0.07522819493897259
+typography_spectrum: 0.42425385606475174
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06992301298305392
+  lightness: 0.698077604174614
+  saturation: 0.29960210830904543
+  rhythmicContrast: 0.8189419403206557
+purpose: []
